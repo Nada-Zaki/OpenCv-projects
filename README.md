@@ -1,4 +1,4 @@
-This repostory contains: 
+This repository contains: 
 
   * Projects.ipynb: this contains 3 projects:
   
