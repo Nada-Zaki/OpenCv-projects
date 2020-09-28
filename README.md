@@ -4,7 +4,7 @@ This repository contains:
   
     * The first one is a virtual paint which is paint by detecting certain colors using webcam. 
     
-    * The second one is a document scanner, here we want to detect a document and then use ward perspective to get the flat out image of our documents which we will scan using webcam.
+    * The second one is a document scanner, here we want to detect a document and then use warp perspective to get the flat out image of our documents which we will scan using webcam.
     
     * The third one is number plate detector, we want to detect the number plate from different cars, we make this using haarcascade_russian_plate_number.xml.
     
